@@ -17,6 +17,9 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MainViewController" customModule="game" customModuleProvider="target">
             <connections>
+                <outlet property="inputField" destination="6dg-F2-A7I" id="HAM-Px-Qua"/>
+                <outlet property="numbersLabel" destination="zRz-TW-BiW" id="Vhd-gg-1ti"/>
+                <outlet property="scoreLabel" destination="tpk-ME-1PS" id="jjz-5F-og2"/>
                 <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
             </connections>
         </placeholder>
